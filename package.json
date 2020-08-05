@@ -8,7 +8,7 @@
   },
   "scripts": {
     "preinstall": "npm i -g pm2",
-    "start": "pm2 start index.js --name adm-front",
+    "start": "pm2 start index.js --name Server TESTE",
     "dev": "node index.js"
   }
 }
